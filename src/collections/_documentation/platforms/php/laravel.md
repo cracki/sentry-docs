@@ -125,7 +125,7 @@ return array(
 ```
 
 
-Load configuration (`app.php/bootstrap`):
+Load configuration (`bootstrap/app.php`):
 
 ```php
 
