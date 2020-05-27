@@ -124,6 +124,15 @@ return array(
 );
 ```
 
+
+Load configuration (`app.php/bootstrap`):
+
+```php
+
+$app->configure('sentry');
+
+```
+
 ### Laravel 4.x
 
 Install the `sentry/sentry-laravel` package:
